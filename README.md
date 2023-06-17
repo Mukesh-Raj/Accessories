@@ -2,8 +2,8 @@
 ```
 Mobile Accessories App, with a frontend built in React & Redux and a backend built in Django API.
 ```
-Check out [FRONTEND LIVE DEMO]() here!!
-Check out [API LIVE DEMO]() here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-accessories.mukesh-raj.repl.co) here!!
+Check out [API LIVE DEMO](https://backend-accessories.mukesh-raj.repl.co) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
