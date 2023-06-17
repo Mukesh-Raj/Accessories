@@ -10,7 +10,7 @@ Check out [API LIVE DEMO]() here!!
 * Backend : Django
 ```
 ## How to Install
-1. Git Clone
+1. Git Clone https://github.com/Mukesh-Raj/Accessories.git
 ```
 git clone 
 ```
